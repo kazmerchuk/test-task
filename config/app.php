@@ -229,4 +229,5 @@ return [
 
     ],
 
+    'jwt_expires_in_min' => env('JWT_EXPIRES_IN_MIN', 60),
 ];
